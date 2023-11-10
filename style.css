@@ -1,6 +1,6 @@
 #d1{
  height: 300px;
- width:100%;
+ width:300px;
 
  
 }
@@ -16,5 +16,6 @@
 #d2:hover{
     transform: translate(2,2);
     background-color: black;
-    
+    color:aliceblue;
+
 }
